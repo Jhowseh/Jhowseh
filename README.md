@@ -1,4 +1,4 @@
-## Hi!
+## Hi, I'm José Henrique
 
 <div align="center">
   <a href="https://github.com/Jhowseh">
@@ -13,6 +13,7 @@
   <img align="center" alt="Henri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Henri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Henri-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/1ZjBNXcYEXkAAAAC/miles-morales.gif>"
 </div>
   
   ##

@@ -4,12 +4,12 @@
    
    • 💻 I like Web Development, especially front-end
    
-   •
+   • 👨‍💻 I'm always ready to learn something new
 
 <div align="center">
   <a href="https://github.com/Jhowseh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhowseh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhowseh&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jhowseh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhowseh&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
   <h3>Favorite Languages 🖤</h3>
@@ -29,10 +29,10 @@
 <a href="https://twitter.com/mayutsukii_" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://www.linkedin.com/in/josé-henrique-silva-49bb27238/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
 <a href="https://www.instagram.com/jheinrique_/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://www.linkedin.com/in/josé-henrique-silva-49bb27238/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>

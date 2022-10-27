@@ -22,7 +22,7 @@
   <img align="center" alt="Henri-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="right" alt="Henri-Gif" height="150" style="border-radius:50px;" src="https://media.tenor.com/1ZjBNXcYEXkAAAAC/miles-morales.gif>"
 
-  ![Snake animation](https://github.com/jhowseh/jhowseh/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Jhowseh/Jhowseh/blob/output/github-contribution-grid-snake.svg)
 </div>
   
   ##

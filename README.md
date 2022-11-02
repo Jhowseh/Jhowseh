@@ -20,7 +20,7 @@
   <img align="center" alt="Henri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Henri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Henri-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Henri-Gif" height="150" style="border-radius:50px;" src="https://media.tenor.com/1ZjBNXcYEXkAAAAC/miles-morales.gif>"
+  <img align="right" alt="Henri-Gif" height="150" style="border-radius:50px;" src="https://i.imgur.com/PndwEa1.gif" title="source: imgur.com>"
 </div>
   
   ##

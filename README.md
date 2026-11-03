@@ -47,7 +47,7 @@
     <img src="assets/btn-linkedin-light.svg" height="44" alt="LinkedIn">
   </picture>
 </a>
-<a href="https://www.instagram.com/SEU_USUARIO">
+<a href="https://www.instagram.com/jheinrique_">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/btn-instagram-dark.svg">
     <img src="assets/btn-instagram-light.svg" height="44" alt="Instagram">

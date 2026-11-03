@@ -1,40 +1,21 @@
-## Hi, I'm José Henrique
+### Olá, sou José Henrique 👋
+Desenvolvedor Front-end · Ciência da Computação (FPB) · Trabalhando na @PBtec
 
-   • 💼 I'm currentlyn working at [PBtec](https://github.com/pbtec)
-   
-   • 💻 I like Web Development, especially front-end
-   
-   • 👨‍💻 I'm always ready to learn something new
+**Stack:** React · TypeScript · JavaScript · HTML · CSS
 
-<div align="center">
-  <a href="https://github.com/Jhowseh">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jhowseh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhowseh&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <h3>Favorite Languages 🖤</h3>
-  <img align="center" alt="Henri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Henri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Henri-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Henri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Henri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Henri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Henri-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Henri-Gif" height="150" style="border-radius:50px;" src="https://i.imgur.com/PndwEa1.gif" title="source: imgur.com>"
-</div>
-  
-  ##
- 
-<p align="left" style="background:yellow">
-<a href="https://twitter.com/mayutsukii_" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://www.instagram.com/jheinrique_/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/josé-henrique-silva-49bb27238/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=José%20Henrique&fontSize=40)
 
-![Snake animation](https://github.com/Jhowseh/Jhowseh/blob/output/github-contribution-grid-snake.svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&lines=Front-end+Developer;React+%2B+TypeScript;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
+
+![Streak](https://streak-stats.demolab.com?user=Jhowseh&theme=tokyonight)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Jhowseh&theme=tokyonight)
+
+const jose = {
+  role: "Front-end Developer",
+  company: "PBtec",
+  stack: ["React", "TypeScript", "JavaScript"],
+  learning: "sempre algo novo ??",
+};
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)

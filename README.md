@@ -17,7 +17,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" width="100%" alt="React, TypeScript, JavaScript, HTML, CSS, Python, Java, Git">
+  <img src="assets/stack-light.svg" width="100%" alt="React, TypeScript, JavaScript, HTML, CSS, Python">
 </picture>
 
 <br>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200"><title>José Henrique</title>
+<defs><linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient></defs>
+<text x="0" y="40" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" letter-spacing="3" fill="#9198A1">OLÁ, EU SOU</text>
+<text x="-3" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-2" fill="#E6EDF3">José Henrique</text>
+<text x="0" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="22" fill="#9198A1">Desenvolvedor Front-end · PBtec</text>
+<rect x="0" y="166" width="56" height="3" rx="1.5" fill="url(#a)"/>
+<circle cx="80" cy="167.5" r="4" fill="#3FB950"/>
+<circle cx="80" cy="167.5" r="4" fill="none" stroke="#3FB950" stroke-width="1.5">
+<animate attributeName="r" values="4;10" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="2s" repeatCount="indefinite"/></circle>
+<text x="94" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#7D8590">Construindo o Be Fit agora</text></svg>

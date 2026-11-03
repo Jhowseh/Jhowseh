@@ -1,21 +1,55 @@
-### Olá, sou José Henrique 👋
-Desenvolvedor Front-end · Ciência da Computação (FPB) · Trabalhando na @PBtec
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="100%" alt="José Henrique · Desenvolvedor Front-end">
+</picture>
 
-**Stack:** React · TypeScript · JavaScript · HTML · CSS
+### <img src="assets/icons/user.svg" width="20" height="20"> Sobre mim
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=José%20Henrique&fontSize=40)
+- 💻 Desenvolvedor front-end na **[PBtec](https://github.com/PBtec)**
+- 🎓 Estudante de Ciência da Computação na **FPB**
+- 📍 João Pessoa, PB
+- 🎨 Gosto de construir interfaces simples, rápidas e bem cuidadas
+- 🌱 Sempre aprendendo algo novo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&lines=Front-end+Developer;React+%2B+TypeScript;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
+<br>
 
-![Streak](https://streak-stats.demolab.com?user=Jhowseh&theme=tokyonight)
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Jhowseh&theme=tokyonight)
+### <img src="assets/icons/layers.svg" width="20" height="20"> Stack
 
-const jose = {
-  role: "Front-end Developer",
-  company: "PBtec",
-  stack: ["React", "TypeScript", "JavaScript"],
-  learning: "sempre algo novo ??",
-};
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" width="100%" alt="React, TypeScript, JavaScript, HTML, CSS, Python, Java, Git">
+</picture>
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<br>
+
+### <img src="assets/icons/folder.svg" width="20" height="20"> Projetos
+
+<a href="https://github.com/circulocarmesim/be-fit-app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-be-fit-app-dark.svg">
+    <img src="assets/card-be-fit-app-light.svg" width="49%" alt="be-fit-app">
+  </picture>
+</a>
+<a href="https://github.com/circulocarmesim/be-fit-server">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-be-fit-server-dark.svg">
+    <img src="assets/card-be-fit-server-light.svg" width="49%" alt="be-fit-server">
+  </picture>
+</a>
+
+<br>
+
+### <img src="assets/icons/send.svg" width="20" height="20"> Contato
+
+<a href="https://www.linkedin.com/in/SEU_USUARIO">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg">
+    <img src="assets/btn-linkedin-light.svg" height="44" alt="LinkedIn">
+  </picture>
+</a>
+<a href="https://www.instagram.com/SEU_USUARIO">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/btn-instagram-dark.svg">
+    <img src="assets/btn-instagram-light.svg" height="44" alt="Instagram">
+  </picture>
+</a>
